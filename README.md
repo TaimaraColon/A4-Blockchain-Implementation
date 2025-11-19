@@ -97,3 +97,4 @@
 <li><strong>Frontend:</strong> HTML5, Bootstrap 5 (CSS/JS bundle), Jinja Templating (for rendering data)</li>
 <li><strong>Core Logic:</strong> Custom <code>Blockchain</code> class (<code>A4.py</code>) handling all hashing, proof, and data structure rules.</li>
 </ul>
+<img width="773" height="943" alt="image" src="https://github.com/user-attachments/assets/911cc246-2750-4aa6-ad10-3a0bd3f69f4b" />
